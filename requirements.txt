@@ -1,0 +1,4 @@
+# runtime (Ollama is a separate local service, not a pip package)
+streamlit>=1.40
+
+# tests / offline demo need nothing beyond the standard library
